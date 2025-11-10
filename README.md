@@ -21,7 +21,7 @@
 
 6、正常按Macos 系统安装教程安装，按OCLP的官方文档说，在安装过程中会默认安装一个OCLP，但是用时间机器恢复之后，这个就应用没了，除非时间机器备份时本身就安装有；
 
-7、系统安装结束后，自动通过U盘的EFI配置启动系统，进入系统后要看是否需要恢复数据，如不需要，则直接到步骤X；
+7、系统安装结束后，自动通过U盘的EFI配置启动系统，进入系统后要看是否需要恢复数据，如不需要，则直接到步骤11；
 
 8、如要恢复数据，那么在恢复数据前，先启动OCLP，先通过选项 <img width="208" height="47" alt="image" src="https://github.com/user-attachments/assets/53c5b58e-f0aa-43bc-84f4-b1fd1ed967ab" />
 然后点击<img width="189" height="33" alt="image" src="https://github.com/user-attachments/assets/0706eb7a-023d-4c6c-9041-406877dc6ade" />
